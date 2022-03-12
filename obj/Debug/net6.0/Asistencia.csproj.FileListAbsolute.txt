@@ -1,0 +1,15 @@
+C:\Kinal\Asistencia\asistencia\obj\Debug\net6.0\Asistencia.csproj.AssemblyReference.cache
+C:\Kinal\Asistencia\asistencia\obj\Debug\net6.0\Asistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kinal\Asistencia\asistencia\obj\Debug\net6.0\Asistencia.AssemblyInfoInputs.cache
+C:\Kinal\Asistencia\asistencia\obj\Debug\net6.0\Asistencia.AssemblyInfo.cs
+C:\Kinal\Asistencia\asistencia\obj\Debug\net6.0\Asistencia.csproj.CoreCompileInputs.cache
+C:\Kinal\Asistencia\asistencia\bin\Debug\net6.0\Asistencia.exe
+C:\Kinal\Asistencia\asistencia\bin\Debug\net6.0\Asistencia.deps.json
+C:\Kinal\Asistencia\asistencia\bin\Debug\net6.0\Asistencia.runtimeconfig.json
+C:\Kinal\Asistencia\asistencia\bin\Debug\net6.0\Asistencia.dll
+C:\Kinal\Asistencia\asistencia\bin\Debug\net6.0\Asistencia.pdb
+C:\Kinal\Asistencia\asistencia\obj\Debug\net6.0\Asistencia.dll
+C:\Kinal\Asistencia\asistencia\obj\Debug\net6.0\refint\Asistencia.dll
+C:\Kinal\Asistencia\asistencia\obj\Debug\net6.0\Asistencia.pdb
+C:\Kinal\Asistencia\asistencia\obj\Debug\net6.0\Asistencia.genruntimeconfig.cache
+C:\Kinal\Asistencia\asistencia\obj\Debug\net6.0\ref\Asistencia.dll
